@@ -21,14 +21,6 @@ O RachaAí é uma aplicação desenvolvida em Blazor para auxiliar usuários no 
 * .NET
 * Bootstrap
 
----
-
-## 📸 Screenshot
-
-Adicionar abaixo uma imagem da aplicação em execução.
-
-```markdown
-![Dashboard RachaAí](./screenshot.png)
 ```
 
 ---
